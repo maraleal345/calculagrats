@@ -1,0 +1,8 @@
+{
+  "appId": "com.gratuidades.app",
+  "appName": "Calculadora de Gratuidades",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
